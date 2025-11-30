@@ -2,7 +2,7 @@
 
 > Your intelligent reading companion - Track your reading journey and engage in AI-powered book discussions.
 
-![ReadingOS Dashboard](images/login.png)
+![ReadingOS Dashboard](images/dashboard.png)
 
 ## 🌟 Overview
 
@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Library](images/library.png)
 
 ### AI Chat
-![Chat](images/ai chat.png)
+![Chat](images/ai_chat.png)
 
 ### Book Detail
-![Book Detail](images/book detail.png)
+![Book Detail](images/book_detail.png)
