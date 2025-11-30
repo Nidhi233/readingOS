@@ -2,12 +2,15 @@
 
 > Your intelligent reading companion - Track your reading journey and engage in AI-powered book discussions.
 
-![ReadingOS Dashboard](https://via.placeholder.com/1200x600/3B82F6/FFFFFF?text=ReadingOS+Dashboard)
-<!-- Replace with actual screenshot after deployment -->
+![ReadingOS Dashboard](<img width="1350" height="713" alt="image" src="https://github.com/user-attachments/assets/55005dec-9169-4fdb-b111-e9fa9a3c4f34" />)
 
 ## 🌟 Overview
 
 ReadingOS is a full-stack web application that helps readers track their reading progress, manage personal libraries, and have meaningful AI-powered discussions about books. Built with modern web technologies and integrated with Groq's Llama 3.3 AI model.
+
+## 🚀 Deployment
+**Frontend**: https://readingos-frontend.onrender.com
+**Backend**: https://readingos-backend.onrender.com
 
 ## ✨ Features
 
